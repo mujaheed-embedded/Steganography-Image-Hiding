@@ -1,0 +1,17 @@
+# Compiled executables
+a.out
+stego
+
+# Object files
+*.o
+
+# Generated BMP images
+output.bmp
+stego.bmp
+stego_img.bmp
+
+# Decoded output
+result.txt
+
+# Temporary files
+*.tmp
